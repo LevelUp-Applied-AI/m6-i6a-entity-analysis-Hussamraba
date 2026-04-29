@@ -1,37 +1,62 @@
-# Integration 6A — Entity Analysis Pipeline
+## Integration 6A — Entity Analysis Pipeline
 
-Module 6 Week A integration task for AI.SPIRE Applied AI & ML Systems.
+Completed the full entity analysis pipeline for the climate articles corpus.
 
-Build a corpus-level entity analysis pipeline that processes climate articles, extracts entities, computes statistics, and produces visualizations.
+### What I Completed
 
-## Setup
+- Loaded the climate articles dataset.
+- Added language-aware preprocessing using Unicode NFC normalization.
+- Preserved the raw `text` column for NER.
+- Filtered the corpus to English articles only before running spaCy NER.
+- Extracted named entities with `text_id`, `entity_text`, `entity_label`, `start_char`, and `end_char`.
+- Aggregated:
+  - Top 20 entities
+  - Entity label counts
+  - Co-occurring entity pairs
+  - Per-category entity distribution
+- Created a visualization file: `entity_distribution.png`.
+- Generated a structured text report from the entity statistics.
 
-```bash
-pip install -r requirements.txt
-python -m spacy download en_core_web_sm
-```
+### Results Summary
 
-## Tasks
+The corpus contains 200 articles:
+- English: 132
+- Arabic: 68
 
-Complete the six functions in `entity_analysis.py`:
-1. `load_corpus(filepath)` — Load the climate articles dataset
-2. `preprocess_corpus(df)` — Add a language-aware `processed_text` column (NFC normalization; Arabic rows pass through without crashing; raw `text` preserved for NER)
-3. `run_ner_pipeline(df, nlp)` — Filter to English and extract entities using the injected spaCy pipeline
-4. `aggregate_entity_stats(entity_df, articles_df)` — Compute top entities, label counts, co-occurrence pairs, and per-category breakdown
-5. `visualize_entity_distribution(stats, output_path)` — Create a bar chart of top entities
-6. `generate_report(stats, co_occurrence)` — Produce a structured entity analysis report string
+The pipeline extracted **1202 entities** from the English articles.
 
-## Submission
+Top entity types:
+- DATE: 256
+- ORG: 184
+- GPE: 165
+- CARDINAL: 138
+- PERCENT: 103
 
-1. Create a branch: `integration-6a-entity-analysis`
-2. Complete `entity_analysis.py`
-3. Open a PR to `main`
-4. Paste your PR URL into TalentLMS → Module 6 Week A → Integration 6A
+Top entities:
+- 2030 (DATE): 25
+- 2023 (DATE): 21
+- Jordan (GPE): 16
+- annually (DATE): 15
+- annual (DATE): 10
 
----
+### Key Findings
 
-## License
+The corpus focuses heavily on dates, organizations, and geographic locations. This makes sense for climate articles because they often discuss climate targets, reporting years, countries, regions, and institutions.
 
-This repository is provided for educational use only. See [LICENSE](LICENSE) for terms.
+### Category Patterns
 
-You may clone and modify this repository for personal learning and practice, and reference code you wrote here in your professional portfolio. Redistribution outside this course is not permitted.
+Adaptation articles had high counts for DATE, GPE, ORG, CARDINAL, and PERCENT entities. This suggests that adaptation texts often focus on timelines, locations, organizations, and measurable climate impacts.
+
+### Co-occurrence Insights
+
+The strongest co-occurring entity pairs were:
+
+- Jordan + annually: 7
+- 2030 + Jordan: 5
+- 2023 + 2030: 5
+
+These patterns suggest that Jordan is often discussed together with annual reporting and future climate goals.
+
+### Dashboard Recommendation
+
+I recommend building an entity relationship dashboard for climate researchers. The dashboard would show the most frequent organizations, locations, dates, and their co-occurrence patterns across article categories. This would help researchers quickly understand which countries, institutions, and climate targets are most connected in the corpus.

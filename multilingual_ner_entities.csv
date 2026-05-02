@@ -1,0 +1,271 @@
+﻿article_id,language,model,entity_text,entity_label,start_char,end_char,word_count
+1,en,spaCy_xx_ent_wiki_sm,IPCC,MISC,4,8,66
+1,en,spaCy_xx_ent_wiki_sm,Sixth Assessment Report,MISC,22,45,66
+1,en,spaCy_xx_ent_wiki_sm,Celsius,PER,119,126,66
+1,en,spaCy_xx_ent_wiki_sm,Antonio Guterres,PER,283,299,66
+1,en,spaCy_xx_ent_wiki_sm,COP,ORG,428,431,66
+2,en,spaCy_xx_ent_wiki_sm,COP28,LOC,3,8,64
+2,en,spaCy_xx_ent_wiki_sm,Dubai,LOC,12,17,64
+2,en,spaCy_xx_ent_wiki_sm,United Arab Emirates,ORG,103,123,64
+3,en,spaCy_xx_ent_wiki_sm,World Bank,ORG,4,14,58
+3,en,spaCy_xx_ent_wiki_sm,Sub-Saharan Africa,ORG,111,129,58
+3,en,spaCy_xx_ent_wiki_sm,South Asia,LOC,134,144,58
+3,en,spaCy_xx_ent_wiki_sm,World Bank,ORG,276,286,58
+3,en,spaCy_xx_ent_wiki_sm,Ajay Banga,PER,297,307,58
+4,en,spaCy_xx_ent_wiki_sm,Jordan,PER,0,6,51
+4,en,spaCy_xx_ent_wiki_sm,National Climate Change Policy,ORG,9,39,51
+4,en,spaCy_xx_ent_wiki_sm,Ministry of Environment,ORG,270,293,51
+4,en,spaCy_xx_ent_wiki_sm,UNDP,ORG,339,343,51
+4,en,spaCy_xx_ent_wiki_sm,European Union,ORG,352,366,51
+5,en,spaCy_xx_ent_wiki_sm,UNFCCC,ORG,0,6,56
+5,en,spaCy_xx_ent_wiki_sm,Simon Stiell,PER,27,39,56
+5,en,spaCy_xx_ent_wiki_sm,Bonn Climate Change Conference,ORG,67,97,56
+5,en,spaCy_xx_ent_wiki_sm,Paris Agreement,ORG,191,206,56
+5,en,spaCy_xx_ent_wiki_sm,NDCs,MISC,269,273,56
+6,en,spaCy_xx_ent_wiki_sm,European Union,ORG,4,18,60
+6,en,spaCy_xx_ent_wiki_sm,Carbon Border Adjustment Mechanism,MISC,21,55,60
+6,en,spaCy_xx_ent_wiki_sm,EU,ORG,275,277,60
+7,en,spaCy_xx_ent_wiki_sm,United Nations General Assembly,ORG,23,54,59
+7,en,spaCy_xx_ent_wiki_sm,Climate Ambition Summit,MISC,66,89,59
+7,en,spaCy_xx_ent_wiki_sm,New York,LOC,93,101,59
+7,en,spaCy_xx_ent_wiki_sm,Paris Agreement,ORG,362,377,59
+8,en,spaCy_xx_ent_wiki_sm,FAO,ORG,0,3,62
+8,en,spaCy_xx_ent_wiki_sm,State of Food and Agriculture,ORG,18,47,62
+8,en,spaCy_xx_ent_wiki_sm,FAO,ORG,296,299,62
+8,en,spaCy_xx_ent_wiki_sm,Qu Dongyu,PER,317,326,62
+9,en,spaCy_xx_ent_wiki_sm,Green Climate Fund,ORG,4,22,61
+9,en,spaCy_xx_ent_wiki_sm,Songdo,LOC,109,115,61
+9,en,spaCy_xx_ent_wiki_sm,South Korea,LOC,117,128,61
+9,en,spaCy_xx_ent_wiki_sm,Bangladesh,LOC,201,211,61
+9,en,spaCy_xx_ent_wiki_sm,Congo Basin,LOC,259,270,61
+9,en,spaCy_xx_ent_wiki_sm,Jordan,LOC,316,322,61
+10,en,spaCy_xx_ent_wiki_sm,China's,MISC,0,7,59
+10,en,spaCy_xx_ent_wiki_sm,Xie Zhenhua,PER,41,52,59
+10,en,spaCy_xx_ent_wiki_sm,US Climate Envoy,ORG,62,78,59
+10,en,spaCy_xx_ent_wiki_sm,John Kerry,PER,79,89,59
+10,en,spaCy_xx_ent_wiki_sm,Sunnylands,LOC,93,103,59
+10,en,spaCy_xx_ent_wiki_sm,California,LOC,105,115,59
+10,en,spaCy_xx_ent_wiki_sm,Paris Agreement,ORG,225,240,59
+10,en,spaCy_xx_ent_wiki_sm,COP28,MISC,395,400,59
+11,en,spaCy_xx_ent_wiki_sm,NASA,ORG,15,19,60
+11,en,spaCy_xx_ent_wiki_sm,Goddard Institute for Space Studies,ORG,22,57,60
+11,en,spaCy_xx_ent_wiki_sm,Celsius,PER,156,163,60
+11,en,spaCy_xx_ent_wiki_sm,El Nino,LOC,198,205,60
+11,en,spaCy_xx_ent_wiki_sm,Southern Europe,LOC,311,326,60
+11,en,spaCy_xx_ent_wiki_sm,North Africa,LOC,328,340,60
+11,en,spaCy_xx_ent_wiki_sm,Middle East,LOC,350,361,60
+12,en,spaCy_xx_ent_wiki_sm,Science,MISC,21,28,64
+12,en,spaCy_xx_ent_wiki_sm,Greenland Ice Sheet,ORG,60,79,64
+12,en,spaCy_xx_ent_wiki_sm,GRACE,MISC,213,218,64
+12,en,spaCy_xx_ent_wiki_sm,GRACE-FO,MISC,223,231,64
+13,en,spaCy_xx_ent_wiki_sm,Arctic,LOC,4,10,66
+13,en,spaCy_xx_ent_wiki_sm,National Snow and,ORG,103,120,66
+13,en,spaCy_xx_ent_wiki_sm,Boulder,LOC,140,147,66
+13,en,spaCy_xx_ent_wiki_sm,Colorado,LOC,149,157,66
+13,en,spaCy_xx_ent_wiki_sm,Arctic,LOC,194,200,66
+14,en,spaCy_xx_ent_wiki_sm,Great Barrier Reef Foundation,LOC,25,54,62
+14,en,spaCy_xx_ent_wiki_sm,Celsius,PER,176,183,62
+14,en,spaCy_xx_ent_wiki_sm,surveyed,LOC,266,274,62
+15,en,spaCy_xx_ent_wiki_sm,Max Planck Institute for Meteorology,ORG,16,52,65
+15,en,spaCy_xx_ent_wiki_sm,Nature Geoscience,MISC,75,92,65
+15,en,spaCy_xx_ent_wiki_sm,Atlantic Meridional Overturning Circulation,ORG,110,153,65
+15,en,spaCy_xx_ent_wiki_sm,AMOC,ORG,204,208,65
+15,en,spaCy_xx_ent_wiki_sm,North Atlantic,LOC,255,269,65
+15,en,spaCy_xx_ent_wiki_sm,Northern Europe,LOC,326,341,65
+15,en,spaCy_xx_ent_wiki_sm,US East Coast,ORG,412,425,65
+16,en,spaCy_xx_ent_wiki_sm,CO2,MISC,12,15,56
+16,en,spaCy_xx_ent_wiki_sm,Mauna Loa Observatory,LOC,38,59,56
+16,en,spaCy_xx_ent_wiki_sm,Hawaii,LOC,63,69,56
+16,en,spaCy_xx_ent_wiki_sm,NOAA,ORG,128,132,56
+17,en,spaCy_xx_ent_wiki_sm,University of Leeds,ORG,21,40,66
+17,en,spaCy_xx_ent_wiki_sm,Geophysical Research Letters,ORG,220,248,66
+17,en,spaCy_xx_ent_wiki_sm,Himalayan,PER,301,310,66
+18,en,spaCy_xx_ent_wiki_sm,World Meteorological Organization,ORG,4,37,60
+18,en,spaCy_xx_ent_wiki_sm,WMO,ORG,317,320,60
+18,en,spaCy_xx_ent_wiki_sm,Celeste Saulo,PER,339,352,60
+19,en,spaCy_xx_ent_wiki_sm,Proceedings of the National Academy of Sciences,MISC,15,62,66
+19,en,spaCy_xx_ent_wiki_sm,Siberia,LOC,93,100,66
+19,en,spaCy_xx_ent_wiki_sm,Alaska,LOC,105,111,66
+19,en,spaCy_xx_ent_wiki_sm,CO2,MISC,157,160,66
+20,en,spaCy_xx_ent_wiki_sm,Potsdam Institute for Climate Impact Research,ORG,18,63,60
+20,en,spaCy_xx_ent_wiki_sm,Greenland Ice Sheet,ORG,217,236,60
+20,en,spaCy_xx_ent_wiki_sm,West Antarctic Ice Sheet,ORG,242,266,60
+20,en,spaCy_xx_ent_wiki_sm,Atlantic Meridional Overturning Circulation,ORG,321,364,60
+20,en,spaCy_xx_ent_wiki_sm,Science,MISC,393,400,60
+79,ar,spaCy_xx_ent_wiki_sm,وأكد التقرير,PER,159,171,56
+80,ar,spaCy_xx_ent_wiki_sm,وقّع الأردن,MISC,0,11,53
+80,ar,spaCy_xx_ent_wiki_sm,وأكد وزير,PER,252,261,53
+83,ar,spaCy_xx_ent_wiki_sm,ويرتبط,PER,146,152,41
+84,ar,spaCy_xx_ent_wiki_sm,وتهدف,MISC,159,164,44
+84,ar,spaCy_xx_ent_wiki_sm,دول,ORG,260,263,44
+85,ar,spaCy_xx_ent_wiki_sm,يُدار,MISC,223,228,46
+86,ar,spaCy_xx_ent_wiki_sm,وساهمت,PER,187,193,51
+87,ar,spaCy_xx_ent_wiki_sm,نُشرت,MISC,11,16,45
+88,ar,spaCy_xx_ent_wiki_sm,ويمثل,LOC,125,130,46
+89,ar,spaCy_xx_ent_wiki_sm,وثّق,ORG,0,4,39
+89,ar,spaCy_xx_ent_wiki_sm,وتجاوزت درجات,PER,110,123,39
+92,ar,spaCy_xx_ent_wiki_sm,ودُفعت,MISC,125,131,44
+93,ar,spaCy_xx_ent_wiki_sm,قدّر,LOC,0,4,45
+95,ar,spaCy_xx_ent_wiki_sm,وأفادت دائرة,PER,132,144,51
+96,ar,spaCy_xx_ent_wiki_sm,متر مكعب,PER,166,174,47
+96,ar,spaCy_xx_ent_wiki_sm,ويهدد الجمع,PER,176,187,47
+97,ar,spaCy_xx_ent_wiki_sm,وقُدرت,MISC,144,150,43
+98,ar,spaCy_xx_ent_wiki_sm,حذّر,MISC,0,4,46
+98,ar,spaCy_xx_ent_wiki_sm,قد خفض,PER,74,80,46
+1,en,HF_xlm_roberta_wikiann,Antonio Guterres,PER,283,299,66
+1,en,HF_xlm_roberta_wikiann,COP,ORG,428,431,66
+2,en,HF_xlm_roberta_wikiann,COP,ORG,3,6,64
+2,en,HF_xlm_roberta_wikiann,Dubai,LOC,12,17,64
+2,en,HF_xlm_roberta_wikiann,United Arab Emirates,PER,103,123,64
+2,en,HF_xlm_roberta_wikiann,cy,PER,132,134,64
+3,en,HF_xlm_roberta_wikiann,World Bank,ORG,4,14,58
+3,en,HF_xlm_roberta_wikiann,Sub-Saharan Africa,LOC,111,129,58
+3,en,HF_xlm_roberta_wikiann,South Asia,LOC,134,144,58
+3,en,HF_xlm_roberta_wikiann,World Bank President,ORG,276,296,58
+3,en,HF_xlm_roberta_wikiann,Ajay Banga,PER,297,307,58
+4,en,HF_xlm_roberta_wikiann,National Climate Change Policy,ORG,9,39,51
+4,en,HF_xlm_roberta_wikiann,Ministry of Environment,ORG,270,293,51
+4,en,HF_xlm_roberta_wikiann,UNDP,ORG,339,343,51
+4,en,HF_xlm_roberta_wikiann,European Union,ORG,352,366,51
+5,en,HF_xlm_roberta_wikiann,UNFCCC Executive Secretary,ORG,0,26,56
+5,en,HF_xlm_roberta_wikiann,Simon Stiell,PER,27,39,56
+5,en,HF_xlm_roberta_wikiann,Bonn Climate Change Conference,ORG,67,97,56
+5,en,HF_xlm_roberta_wikiann,Paris Agreement,ORG,191,206,56
+6,en,HF_xlm_roberta_wikiann,European Union,ORG,4,18,60
+6,en,HF_xlm_roberta_wikiann,s,ORG,19,20,60
+6,en,HF_xlm_roberta_wikiann,Carbon Border Adjustment Mechanism,ORG,21,55,60
+6,en,HF_xlm_roberta_wikiann,EU climate ambition,ORG,275,294,60
+7,en,HF_xlm_roberta_wikiann,United Nations General Assembly,ORG,23,54,59
+7,en,HF_xlm_roberta_wikiann,Climate Ambition Summit,ORG,66,89,59
+7,en,HF_xlm_roberta_wikiann,New York,LOC,93,101,59
+7,en,HF_xlm_roberta_wikiann,Paris Agreement,ORG,362,377,59
+8,en,HF_xlm_roberta_wikiann,FAO,ORG,0,3,62
+8,en,HF_xlm_roberta_wikiann,State of Food and Agriculture 2023,ORG,18,52,62
+8,en,HF_xlm_roberta_wikiann,Qu Dongyu,PER,317,326,62
+9,en,HF_xlm_roberta_wikiann,Green Climate Fund,ORG,4,22,61
+9,en,HF_xlm_roberta_wikiann,Songdo,LOC,109,115,61
+9,en,HF_xlm_roberta_wikiann,South Korea,LOC,117,128,61
+9,en,HF_xlm_roberta_wikiann,Bangladesh,LOC,201,211,61
+9,en,HF_xlm_roberta_wikiann,Congo Basin,LOC,259,270,61
+9,en,HF_xlm_roberta_wikiann,Jordan,LOC,316,322,61
+10,en,HF_xlm_roberta_wikiann,China's Special Envoy for Climate Change,ORG,0,40,59
+10,en,HF_xlm_roberta_wikiann,Xie Zhenhua,PER,41,52,59
+10,en,HF_xlm_roberta_wikiann,US Climate Envoy,ORG,62,78,59
+10,en,HF_xlm_roberta_wikiann,John Kerry,PER,79,89,59
+10,en,HF_xlm_roberta_wikiann,"Sunnylands, California",LOC,93,115,59
+10,en,HF_xlm_roberta_wikiann,Paris Agreement,ORG,225,240,59
+10,en,HF_xlm_roberta_wikiann,COP28,ORG,395,400,59
+11,en,HF_xlm_roberta_wikiann,NASA,ORG,15,19,60
+11,en,HF_xlm_roberta_wikiann,Goddard Institute for Space Studies,ORG,22,57,60
+11,en,HF_xlm_roberta_wikiann,El Nino,ORG,198,205,60
+11,en,HF_xlm_roberta_wikiann,Southern Europe,LOC,311,326,60
+11,en,HF_xlm_roberta_wikiann,North Africa,LOC,328,340,60
+11,en,HF_xlm_roberta_wikiann,Middle East,LOC,350,361,60
+12,en,HF_xlm_roberta_wikiann,Science,ORG,21,28,64
+12,en,HF_xlm_roberta_wikiann,Greenland Ice,LOC,60,73,64
+12,en,HF_xlm_roberta_wikiann,She,ORG,74,77,64
+12,en,HF_xlm_roberta_wikiann,et,LOC,77,79,64
+12,en,HF_xlm_roberta_wikiann,satellite gravimetry,ORG,178,198,64
+12,en,HF_xlm_roberta_wikiann,GRACE,ORG,213,218,64
+12,en,HF_xlm_roberta_wikiann,GRACE-FO,ORG,223,231,64
+13,en,HF_xlm_roberta_wikiann,Arctic sea ice extent,LOC,4,25,66
+13,en,HF_xlm_roberta_wikiann,National Snow and Ice Data Center,ORG,103,136,66
+13,en,HF_xlm_roberta_wikiann,"Boulder, Colorado",LOC,140,157,66
+13,en,HF_xlm_roberta_wikiann,Ar,LOC,194,196,66
+14,en,HF_xlm_roberta_wikiann,biologi,ORG,7,14,62
+14,en,HF_xlm_roberta_wikiann,Great Barrier Reef Foundation,ORG,25,54,62
+15,en,HF_xlm_roberta_wikiann,Max Planck Institute for Meteorology,ORG,16,52,65
+15,en,HF_xlm_roberta_wikiann,Nature Geoscience,ORG,75,92,65
+15,en,HF_xlm_roberta_wikiann,Atlantic Meridional Overturning Circulation,ORG,110,153,65
+15,en,HF_xlm_roberta_wikiann,North Atlantic,LOC,255,269,65
+15,en,HF_xlm_roberta_wikiann,Northern Europe,LOC,326,341,65
+15,en,HF_xlm_roberta_wikiann,US East Coast,LOC,412,425,65
+16,en,HF_xlm_roberta_wikiann,Atmos,ORG,0,5,56
+16,en,HF_xlm_roberta_wikiann,CO2,ORG,12,15,56
+16,en,HF_xlm_roberta_wikiann,Mauna Loa Observatory,ORG,38,59,56
+16,en,HF_xlm_roberta_wikiann,Hawaii,LOC,63,69,56
+16,en,HF_xlm_roberta_wikiann,NOAA,ORG,128,132,56
+17,en,HF_xlm_roberta_wikiann,University of Leeds,ORG,21,40,66
+17,en,HF_xlm_roberta_wikiann,Geophysical Research Letters,ORG,220,248,66
+17,en,HF_xlm_roberta_wikiann,Himalaya,LOC,301,309,66
+18,en,HF_xlm_roberta_wikiann,World Meteorological Organization,ORG,4,37,60
+18,en,HF_xlm_roberta_wikiann,mean sea level,ORG,59,73,60
+18,en,HF_xlm_roberta_wikiann,The,ORG,174,177,60
+18,en,HF_xlm_roberta_wikiann,r,ORG,177,178,60
+18,en,HF_xlm_roberta_wikiann,expansion of ocean water,ORG,182,206,60
+18,en,HF_xlm_roberta_wikiann,Cele,PER,339,343,60
+18,en,HF_xlm_roberta_wikiann,ste Saulo,PER,343,352,60
+19,en,HF_xlm_roberta_wikiann,Proceedings of the National Academy of Sciences,ORG,15,62,66
+19,en,HF_xlm_roberta_wikiann,Siberia,LOC,93,100,66
+19,en,HF_xlm_roberta_wikiann,Alaska,LOC,105,111,66
+19,en,HF_xlm_roberta_wikiann,CO,ORG,157,159,66
+19,en,HF_xlm_roberta_wikiann,met,ORG,226,229,66
+20,en,HF_xlm_roberta_wikiann,Potsdam Institute for Climate Impact Research,ORG,18,63,60
+20,en,HF_xlm_roberta_wikiann,Greenland Ice Sheet,LOC,217,236,60
+20,en,HF_xlm_roberta_wikiann,West Antarctic Ice Sheet,LOC,242,266,60
+20,en,HF_xlm_roberta_wikiann,Atlantic Meridional Overturning Circulation,LOC,321,364,60
+20,en,HF_xlm_roberta_wikiann,Science,ORG,393,400,60
+79,ar,HF_xlm_roberta_wikiann,الهيئة الحكومية الدولية المعنية بتغير المناخ,ORG,6,50,56
+80,ar,HF_xlm_roberta_wikiann,الأردن,LOC,5,11,53
+80,ar,HF_xlm_roberta_wikiann,البنك الدولي,ORG,29,41,53
+80,ar,HF_xlm_roberta_wikiann,وادي الأردن,LOC,154,165,53
+80,ar,HF_xlm_roberta_wikiann,البيئة الأردن,PER,262,275,53
+81,ar,HF_xlm_roberta_wikiann,مؤتمر الأطراف الثامن والعشرين,ORG,3,32,48
+81,ar,HF_xlm_roberta_wikiann,دبي,LOC,44,47,48
+82,ar,HF_xlm_roberta_wikiann,منظمة الأغذية والزراعة,ORG,6,28,45
+82,ar,HF_xlm_roberta_wikiann,المناخ,LOC,90,96,45
+83,ar,HF_xlm_roberta_wikiann,الأمم المتحدة,ORG,7,20,41
+83,ar,HF_xlm_roberta_wikiann,كونمينغ-مونتريال العالمي للتنوع البيولوجي,ORG,26,67,41
+84,ar,HF_xlm_roberta_wikiann,الاتحاد الأوروبي,ORG,5,21,44
+84,ar,HF_xlm_roberta_wikiann,تعديل,ORG,27,32,44
+84,ar,HF_xlm_roberta_wikiann,حدود الكربون,ORG,33,45,44
+85,ar,HF_xlm_roberta_wikiann,البرلمان الأردني,ORG,5,21,46
+85,ar,HF_xlm_roberta_wikiann,قانون الطاقة المتجددة وكفاءة الطاقة,ORG,26,61,46
+85,ar,HF_xlm_roberta_wikiann,البنك المركزي الأردني,ORG,233,254,46
+86,ar,HF_xlm_roberta_wikiann,معهد غودارد لدراسات الفضاء,ORG,14,40,51
+86,ar,HF_xlm_roberta_wikiann,ناسا,ORG,55,59,51
+86,ar,HF_xlm_roberta_wikiann,جنوب أوروبا,LOC,262,273,51
+86,ar,HF_xlm_roberta_wikiann,شمال أفريقيا,LOC,275,287,51
+86,ar,HF_xlm_roberta_wikiann,شرق الأوسط,LOC,291,301,51
+87,ar,HF_xlm_roberta_wikiann,ساينس,ORG,25,30,45
+87,ar,HF_xlm_roberta_wikiann,ال,LOC,34,36,45
+87,ar,HF_xlm_roberta_wikiann,غطاء الجليدي,LOC,36,48,45
+87,ar,HF_xlm_roberta_wikiann,غرينلاند,LOC,52,60,45
+87,ar,HF_xlm_roberta_wikiann,سطح البحر,ORG,180,189,45
+88,ar,HF_xlm_roberta_wikiann,ث,ORG,10,11,46
+88,ar,HF_xlm_roberta_wikiann,اني أكسيد الكربون,ORG,11,28,46
+88,ar,HF_xlm_roberta_wikiann,لاف,ORG,35,38,46
+88,ar,HF_xlm_roberta_wikiann,للإدارة الوطنية للمحيطات والغلاف الجوي,ORG,85,123,46
+88,ar,HF_xlm_roberta_wikiann,الثورة الصناعية,ORG,167,182,46
+89,ar,HF_xlm_roberta_wikiann,الأحياء البحرية,ORG,11,26,39
+89,ar,HF_xlm_roberta_wikiann,الحيد المرجاني العظيم,LOC,59,80,39
+90,ar,HF_xlm_roberta_wikiann,معهد بوتسدام لأبحاث,ORG,18,37,42
+90,ar,HF_xlm_roberta_wikiann,الغطاء الجليدي,LOC,143,157,42
+90,ar,HF_xlm_roberta_wikiann,غرينلاند,LOC,161,169,42
+90,ar,HF_xlm_roberta_wikiann,القارة القطبية الجنوبية,LOC,175,198,42
+90,ar,HF_xlm_roberta_wikiann,التربة الصقيعية,LOC,241,256,42
+90,ar,HF_xlm_roberta_wikiann,سيبيريا,LOC,260,267,42
+91,ar,HF_xlm_roberta_wikiann,المنظمة العالمية للأرصاد الجوية,ORG,5,36,47
+91,ar,HF_xlm_roberta_wikiann,مستوى سطح البحر العالمي,ORG,49,72,47
+92,ar,HF_xlm_roberta_wikiann,القمر الاصطناعي كوبرنيكوس,ORG,13,38,44
+92,ar,HF_xlm_roberta_wikiann,الثورة الصناعية,ORG,108,123,44
+92,ar,HF_xlm_roberta_wikiann,ظاهر,LOC,159,163,44
+92,ar,HF_xlm_roberta_wikiann,النينو,LOC,165,171,44
+92,ar,HF_xlm_roberta_wikiann,صحراء الكبرى,LOC,187,199,44
+92,ar,HF_xlm_roberta_wikiann,القارة القطبية الجنوبية,LOC,230,253,44
+93,ar,HF_xlm_roberta_wikiann,مشروع الكربون العالمي,ORG,5,26,45
+93,ar,HF_xlm_roberta_wikiann,ثاني أكسيد الكربون,ORG,46,64,45
+93,ar,HF_xlm_roberta_wikiann,الهند,LOC,227,232,45
+93,ar,HF_xlm_roberta_wikiann,ين,LOC,237,239,45
+94,ar,HF_xlm_roberta_wikiann,البحر الميت,LOC,4,15,51
+94,ar,HF_xlm_roberta_wikiann,نهر الأردن,LOC,150,160,51
+95,ar,HF_xlm_roberta_wikiann,دائرة الأرصاد الجوية الأردنية,ORG,139,168,51
+96,ar,HF_xlm_roberta_wikiann,الأردن,LOC,7,13,47
+96,ar,HF_xlm_roberta_wikiann,,ORG,137,138,47
+96,ar,HF_xlm_roberta_wikiann,وادي الأردن,LOC,261,272,47
+97,ar,HF_xlm_roberta_wikiann,درنة بليبيا,LOC,28,39,43
+97,ar,HF_xlm_roberta_wikiann,دان,PER,120,123,43
+98,ar,HF_xlm_roberta_wikiann,الهيئة الحكومية الدولية,ORG,11,34,46
+98,ar,HF_xlm_roberta_wikiann,بتغير المناخ,ORG,43,55,46
+98,ar,HF_xlm_roberta_wikiann,جنوب آسيا,LOC,173,182,46
+98,ar,HF_xlm_roberta_wikiann,أفريقيا جنوب الصحراء,LOC,199,219,46
